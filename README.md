@@ -1,55 +1,43 @@
-# Hi, I'm Shivam (shivam904) 👋
+<!--
+  Hi there 👋, I'm Shivam!
+  Full Stack Developer | Java & JS Enthusiast | Open Source Contributor
+-->
 
-> Crafting clean, reliable software and delightful developer experiences — one commit at a time.
+<h1 align="center">Hi 👋, I'm Shivam</h1>
+<h3 align="center">Full Stack Developer | Java & JavaScript Enthusiast | Building Modern Web Apps</h3>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=shivam904&color=0e75b6)](https://github.com/shivam904)
-
----
-
-## 🔭 About Me
-I’m a curious and pragmatic software developer who enjoys building scalable web apps, developer tools, and automations that make teams more productive. I love clean code, robust tests, and shipping features that users actually enjoy.
-
-
-## 🛠️ Skills
-
-Languages: C++ . Java . JavaScript · Python · SQL  
-Frameworks & Libraries: Node.js · Express · React . Spring Boot
-Databases & Storage: PostgreSQL · Redis · MongoDB · S3  
-
-
-## 📈 GitHub Stats
-
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivam904&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam904&layout=compact&theme=default)
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivam-negi-809361256/" target="_blank">LinkedIn</a> •
+  <a href="https://shivam904.github.io/Portfolio/" target="_blank">Portfolio</a>
+</p>
 
 ---
 
-## 🤝 How to Work With Me
-- Open to: Collaborations, open-source contributions, mentoring, and interesting full-time or contract roles (customize).
-- Best way to reach me: Email (negishivam904@gmail.com) or GitHub DM.
-- I prefer asynchronous communication and short, focused meetings.
+### 🔭 About Me
+- Passionate about creating **efficient, scalable, and modern web applications**.
+- Experienced with **MERN stack, Java Spring Boot, React, Node.js**.
+- Always exploring **new technologies** .
 
 ---
 
-## ✨ What I’m Learning
-- Advanced backedn technologies .
-- Observability and SRE practices for production reliability
+### 🛠️ Tech Stack
+- **Languages** C/C++, Java, C#, Python, JavaScript, HTML, CSS
+- **Frontend:** React, Tailwind CSS
+- **Backend:** Node.js, Express, Java Spring Boot
+- **Database:** MongoDB, PostgreSQL, MySql
+- **Others:** Git, GitHub, Docker, Firebase, Socket.IO, Unity
 
 ---
 
-## 📫 Connect with Me
-- Website: https://shivam904.github.io/Portfolio/  
-- Email: negishivam904@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/shivam-negi-809361256/  
+### 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivam904&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam904&hide_border=true&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## ❤️ Support & Tips
-If you like my work, feel free to:
-- Star repositories you find useful
-- Follow me for updates
-- Open issues or PRs if you find bugs or want to add enhancements
+### 📫 Contact Me
+- Email: [negishivam904@gmail.com](mailto:negishivam904@gmail.com)
+- Portfolio: [https://shivam904.github.io/Portfolio/](https://shivam904.github.io/Portfolio/)
 
----
-
-Thanks for stopping by — let’s build something great ✨
